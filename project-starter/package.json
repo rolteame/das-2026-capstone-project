@@ -1,0 +1,20 @@
+{
+  "name": "dsa-project-start",
+  "version": "1.0.0",
+  "description": "Ticket managing sysstem basics",
+  "homepage": "https://github.com/rolteame/das-2026-capstone-project#readme",
+  "bugs": {
+    "url": "https://github.com/rolteame/das-2026-capstone-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolteame/das-2026-capstone-project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
